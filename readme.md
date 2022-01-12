@@ -1,0 +1,1 @@
+# Dedicado a problemas do URI Online Judge ou Beecrowd
