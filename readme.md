@@ -1,1 +1,1 @@
-# Dedicado a problemas do URI Online Judge ou Beecrowd
+# Dedicado a resolução de problemas de sites como beecrowd e leetCode
